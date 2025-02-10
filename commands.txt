@@ -22,3 +22,10 @@ command for listing all untracked files
 
 >git status
 
+command for adding untracked files to staging area
+
+>git add -A
+
+command for adding staged files to local repository
+
+>git commit -m "commit message"
