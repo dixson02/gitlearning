@@ -14,3 +14,11 @@ command for adding user email
 
 >git config --global user.email "useremail"
 
+command for initializing git in pwd
+
+>git init
+
+command for listing all untracked files
+
+>git status
+
