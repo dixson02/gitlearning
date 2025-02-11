@@ -46,3 +46,8 @@ command for add remote
 listing remote
 
 >git remote -v
+
+command for listing all branches
+>git branch
+
+
