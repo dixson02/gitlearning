@@ -39,3 +39,6 @@ exact copy from remote repository
 
 remote repository chnges
 >git pull
+
+command for add remote
+>git remote add remoteName path
