@@ -50,4 +50,8 @@ listing remote
 command for listing all branches
 >git branch
 
+command for checkout to a branch
+
+>git checkout branchname
+
 
