@@ -29,3 +29,13 @@ command for adding untracked files to staging area
 command for adding staged files to local repository
 
 >git commit -m "commit message"
+
+command for adding local repository content to remote
+
+>git push 
+
+exact copy from remote repository
+>git clone
+
+remote repository chnges
+>git pull
