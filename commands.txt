@@ -42,3 +42,7 @@ remote repository chnges
 
 command for add remote
 >git remote add remoteName path
+
+listing remote
+
+>git remote -v
